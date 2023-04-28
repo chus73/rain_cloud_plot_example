@@ -6,3 +6,6 @@ This study shows a quick example of this type of graph. The famous Titanic datas
 
 
 ![image](https://user-images.githubusercontent.com/32896958/235251839-b993bfa9-e380-48ba-ab04-a5194c2dbea5.png)
+
+To see the notebook:
+https://nbviewer.org/github/chus73/rain_cloud_plot_example/blob/main/PEC2_rain_clouds_plot.ipynb
